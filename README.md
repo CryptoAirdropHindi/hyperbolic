@@ -44,7 +44,7 @@ Here are the applications I have created using the Hyperbolic Labs API. Each app
 * Files:
 * `Chatbot.py` – Script to interact with the API for language processing tasks.
 * `examples.txt` – Sample texts used for testing various language processing features.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Notes
 1. Sign up at [Hyperbolic Labs:](https://app.hyperbolic.xyz/)
 Go to the Hyperbolic Labs website and sign up for an account. After signing up, you should receive an API key,
@@ -54,8 +54,7 @@ API_KEY = `your-placeholder-api-key`
 2. Be mindful of usage limits and costs:
 Each plan you have with Hyperbolic Labs might come with usage limits (like the number of requests you can make per day) and costs.
 Be sure to read through their documentation or check your plan details to ensure you're aware of these limits. This will help you avoid unexpected charges or throttling
----------------------------------------------------------------------------------------------------------------------------
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Great, all set! If you have any questions, don’t hesitate to ask in our Telegram channel."
 Or if you'd like something more friendly and engaging:
 - Telegram - https://t.me/Crypto_airdropHM

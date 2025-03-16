@@ -12,7 +12,7 @@ Hyperbolic empowers developers of all levels to experiment with AI and bring the
 
 # My Apps
 Here are the applications I have created using the Hyperbolic Labs API. Each app highlights a different use case and offers a valuable insight into the flexibility of the platform. You can find the repositories, relevant files, and documentation for each project below:
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 1. **Image Generation App**
 * Description: This app generates images based on text prompts, using the Hyperbolic API's image generation capabilities.
 * Key Features:

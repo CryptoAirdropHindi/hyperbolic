@@ -13,7 +13,7 @@ Hyperbolic empowers developers of all levels to experiment with AI and bring the
 ## My Apps
 Here are the applications I have created using the Hyperbolic Labs API. Each app highlights a different use case and offers a valuable insight into the flexibility of the platform. You can find the repositories, relevant files, and documentation for each project below:
 
-1. Image Generation App
+1. **Image Generation App**
 * Description: This app generates images based on text prompts, using the Hyperbolic API's image generation capabilities.
 * Key Features:
 * Generates 100 different `images` from a list of prompts.
@@ -23,7 +23,7 @@ Here are the applications I have created using the Hyperbolic Labs API. Each app
 * `Imagebot.Py` – Script to interact with the API and generate images.
 * `prompts.txt` – A list of 100 different prompts used for image generation
 
-2. Text-to-Audio App
+2. **Text-to-Audio App**
 * Description: This app converts a set of text phrases into audio files using the Hyperbolic API's text-to-speech capabilities.
 * Key Features:
 * Takes 100 different text phrases as input and generates corresponding audio files.
@@ -34,7 +34,7 @@ Here are the applications I have created using the Hyperbolic Labs API. Each app
 * `audiobot.py` – Script to interact with the API and generate audio from text.
 * `texts.txt` – A list of 100 text phrases used for audio generation.
 
-3. Language Processing App
+3. **Language Processing App**
 * Description: This app processes `text` inputs to analyze sentiment, generate summaries, or translate between languages using Hyperbolic's NLP tools.
 * Key Features:
 * Perform sentiment analysis on text.

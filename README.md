@@ -1,7 +1,7 @@
-# <h2 align=center>Hyperbolic AI Hub</h2>
+# Hyperbolic AI Hub
 This repository contains a collection of applications I've built using the Hyperbolic API. These projects demonstrate the power and flexibility of Hyperbolic Labs' AI tools in creating innovative applications, showcasing different use cases such as language processing, image generation, and audio capabilities.
 
-# <h2 align=center>About Hyperbolic Labs</h2>
+# About Hyperbolic Labs
 Hyperbolic Labs is a platform dedicated to making AI development accessible and affordable. They provide open-access AI models and scalable computing resources through their API, which supports a variety of features, such as:
 
 * Language Processing: Text generation, sentiment analysis, language translation, etc.
@@ -10,7 +10,7 @@ Hyperbolic Labs is a platform dedicated to making AI development accessible and 
 
 Hyperbolic empowers developers of all levels to experiment with AI and bring their ideas to life, providing tools that enable creativity, innovation, and practical applications in a wide range of domains.
 
-# <h2 align=center>My Apps</h2>
+# My Apps
 Here are the applications I have created using the Hyperbolic Labs API. Each app highlights a different use case and offers a valuable insight into the flexibility of the platform. You can find the repositories, relevant files, and documentation for each project below:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

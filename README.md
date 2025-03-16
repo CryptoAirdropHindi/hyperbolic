@@ -16,7 +16,7 @@ Here are the applications I have created using the Hyperbolic Labs API. Each app
 1. Image Generation App
 * Description: This app generates images based on text prompts, using the Hyperbolic API's image generation capabilities.
 * Key Features:
-* Generates 100 different images from a list of prompts.
+* Generates 100 different `images` from a list of prompts.
 * Uses a random pause interval between requests to avoid API rate limits.
 * Repository: [Image Generation Repo](https://github.com/CryptoAirdropHindi/Imagebot.app)
 * Files:
@@ -35,7 +35,7 @@ Here are the applications I have created using the Hyperbolic Labs API. Each app
 * `texts.txt` – A list of 100 text phrases used for audio generation.
 
 3. Language Processing App
-* Description: This app processes text inputs to analyze sentiment, generate summaries, or translate between languages using Hyperbolic's NLP tools.
+* Description: This app processes `text` inputs to analyze sentiment, generate summaries, or translate between languages using Hyperbolic's NLP tools.
 * Key Features:
 * Perform sentiment analysis on text.
 * Generate summaries of long articles.

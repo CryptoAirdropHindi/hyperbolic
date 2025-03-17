@@ -3,7 +3,7 @@ import axios from 'axios';
 const url = "https://api.hyperbolic.xyz/v1/chat/completions";
 const headers = {
   "Content-Type": "application/json",
-  "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtYWxsaWNraGFzYW42NTFAZ21haWwuY29tIiwiaWF0IjoxNzQyMDA4NDQ4fQ.BNZ_w0CT-b7W-A2-WXcgyM6nrTxaF7bKmA1Glaj__Ss"
+  "Authorization": "Bearer "
 };
 
 // Array of 100 questions

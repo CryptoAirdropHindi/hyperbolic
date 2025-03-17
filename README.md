@@ -1,4 +1,4 @@
-YOUTUBE TUTORIAL [CryptoAirdropHindi6](https://youtu.be/Q3HmL1Tds2U)
+## YOUTUBE TUTORIAL [CryptoAirdropHindi6](https://youtu.be/Q3HmL1Tds2U)
 
 # Hyperbolic AI Hub
 This repository contains a collection of applications I've built using the Hyperbolic API. These projects demonstrate the power and flexibility of Hyperbolic Labs' AI tools in creating innovative applications, showcasing different use cases such as language processing, image generation, and audio capabilities.

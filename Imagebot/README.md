@@ -25,8 +25,8 @@ This repository contains a simple automated chatbot built using the [Hyperbolic 
    ```
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/CryptoAirdropHindi/Imagebot.app.git
-   cd Imagebot.app
+   git clone https://github.com/Hasanmallick07/Imagebot.git
+   cd Imagebot
    ```
 3. **Install Dependencies**
    ```bash
